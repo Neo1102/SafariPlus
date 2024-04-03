@@ -13,8 +13,8 @@
 "GESTURES" = "手勢";
 "CUSTOMIZATION" = "客製化";
 
-"ABOUT_THIS_TWEAK" = "關於此插體";
-"TWEAK_SPECIFIC_SETTINGS" = "插體特別設定";
+"ABOUT_THIS_TWEAK" = "關於此外掛";
+"TWEAK_SPECIFIC_SETTINGS" = "外掛特別設定";
 "SOURCE_CODE" = "原始碼";
 "CREDITS_AND_LICENSES" = "致謝 & 許可證";
 
@@ -449,7 +449,7 @@
 "PLAY" = "播放";
 "CUSTOM_DEFAULT_PATH_ERROR_MESSAGE" = "您在「自訂預設路徑」下的設定中的路徑無效。請更正。";
 "WEBCONTENT_COMMUNICATION_FAILED" = "與 WebContent 處理程序通訊失敗。這是取得影片 URL 所必需的。確保您沒有透過 iCleaner Pro、Choicy 或類似工具停用 SafariPlusWC.dylib。";
-"WEBCONTENT_COMMUNICATION_FAILED_LIBHOOKER_NOTICE" = "當您使用 libhooker 時，請確保在 libhooker 設定中啟用了“在網頁中允許插體”，並且 libhooker 和您的越獄都是最新的";
+"WEBCONTENT_COMMUNICATION_FAILED_LIBHOOKER_NOTICE" = "當您使用 libhooker 時，請確保在 libhooker 設定中啟用了“在網頁中允許外掛”，並且 libhooker 和您的越獄都是最新的";
 "COPY_LINK" = "複製連結";
 "SIZE_UNKNOWN" = "未知容量";
 "DURATION_UNKNOWN" = "剩餘時間未知";
